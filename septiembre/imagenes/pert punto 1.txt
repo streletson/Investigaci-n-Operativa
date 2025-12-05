@@ -1,0 +1,22 @@
+Ruta crítica = a – d – e – g
+to: 1+3+5+6=15 
+  co:641
+    critico:308
+  cn:759
+    critico:348
+  cp:862
+    critico:381
+tn: 3+6+7+8=24
+  co:641
+    critico:308
+  cn:759
+    critico:348
+  cp:862
+    critico:381
+tp: 5+9+9+10=33 
+  co:641
+    critico:308
+  cn:759
+    critico:348
+  cp:862
+    critico:381
